@@ -1,5 +1,4 @@
-
-     ## STEPS ON HOW SASS WAS INSTALLED
+## STEPS ON HOW SASS WAS INSTALLED
  1. Navigated into my repository:PS C:\Users\innoc\alx-intermediate-frontend> and deprecated any node-sass if present:
   by running `npm uninstall node-sass`or install the nvm -version to manage all node versions.
 
